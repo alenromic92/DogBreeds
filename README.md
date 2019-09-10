@@ -5,6 +5,7 @@
 * [O aplikaciji](#o-aplikaciji)
 * [Mock dizajn](#mock-dizajn-aplikacije)
 * [Korišteni API](#api-koji-je-korišten-u-aplikaciji)
+* [Video zapis aplikacije u radu](#video-zapis-aplikacije-u-radu)
 * [PowerPoint prezentacija](#powerpoint-prezentacija-aplikacije)
 <br />
 <br />
@@ -26,6 +27,11 @@ Kliknite da biste vidjeli: [Mock dizajn](https://ninjamock.com/s/3R4KQDx)<br />
 
 ## API koji je korišten u aplikaciji
 API sa slikama pasa -> [Psi](https://dog.ceo/dog-api/) <br />
+<br />
+<br />
+
+## Video zapis aplikacije u radu
+Za pokretanje videa **_klikni ovdje_**
 <br />
 <br />
 
