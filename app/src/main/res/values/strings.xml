@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">DogBreeds</string>
     <string name="dog_breeds">Dog breeds</string>
-    <string name="description">Click on dog breed in the list and see a cute dog!</string>
+    <string name="description">Please sign in so you could enjoy pictures of lovely dogs :) </string>
 </resources>
