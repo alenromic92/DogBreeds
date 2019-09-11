@@ -38,4 +38,4 @@ Za pokretanje videa
 
 
 ## PowerPoint prezentacija aplikacije
-[PowerPoint prezentacija](https://tinyurl.com/y2t9s5yr)
+[PowerPoint prezentacija](https://drive.google.com/open?id=1IpCIToY7qv5eq-QBCAaxUhk8ZzBm7SnV)
