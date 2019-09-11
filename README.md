@@ -12,7 +12,7 @@
 
 ## O aplikaciji
 Ideja ove aplikacije je uljepšati dan korisniku.<br />
-Aplikacija korisniku omogučava pregled slika pasa.<br />
+Aplikacija prikazuje slika pasamina.<br />
 
 Za login u aplikaciju koristi se Google Sign in.<br />
 <br />
@@ -31,8 +31,11 @@ API sa slikama pasa -> [Psi](https://dog.ceo/dog-api/) <br />
 <br />
 
 ## Video zapis aplikacije u radu
-Za pokretanje videa **_klikni ovdje_**
+Za pokretanje videa
+[**_klikni ovdje_**](https://streamable.com/d6ng4)<br />
 <br />
 <br />
 
+
 ## PowerPoint prezentacija aplikacije
+[PowerPoint prezentacija](https://tinyurl.com/y2t9s5yr)
